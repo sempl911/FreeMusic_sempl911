@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "closeup-violin-trumpet-note-sheets-lights.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "closeup-violin-trumpet-note-sheets-lights 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "closeup-violin-trumpet-note-sheets-lights 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
