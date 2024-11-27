@@ -1,15 +1,17 @@
-🎵 iOS Music Player (Beta)
+<h1>🎵 iOS Music Player (Beta)</h1>
 This project is a beta version of an online music player for iOS, powered by the Jamendo music platform. The player provides access to specific music genres and includes additional features to enhance the listening experience.
 
 📋 Key Features:
 Jamendo API Integration
 
 Automatically fetches tracks from the following genres:
-Rock
-Classical
-R&B
-Electronic
-Online Music Playback
+<ul>
+    <li>Rock</li>
+    <li>Classical</li>
+    <li>R&B</li>
+    <li>Electronic</li>
+    <li>Online Music Playback</li>
+</ul>
 
 Stream tracks seamlessly in real-time.
 Offline Mode
